@@ -21,19 +21,14 @@ Her current research is focusing on explainable machine learning, especially the
 
 ### Publications ([Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=a-uKBooAAAAJ))
 <ol>
-    <li><b>Yicong Li</b>, Hongxu Chen, Yile Li, Lin Li, Philip S Yu, Guandong Xu. [Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation](https://arxiv.org/pdf/2111.12262.pdf)". IEEE Transactions on Knowledge and Data Engineering (TKDE).</li>
-    <li>Kangzheng Liu, Feng Zhao, Hongxu Chen, <b>Yicong Li</b>, Guandong Xu, Hai Jin. "[DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning](https://dl.acm.org/doi/abs/10.1145/3511808.3557280)". Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM 2022). 2022: 1289-1298.</li>
-    <li><b>Yicong Li</b>, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu. "[Hyperbolic Hypergraphs for Sequential Recommendation](https://arxiv.org/pdf/2108.08134)". The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Nov, 2021</li>
-    <li>Hongxu Chen, <b>Yicong Li*</b>, Xiangguo Sun, Guandong Xu and Hongzhi Yin. "[Temporal Meta-path Guided Explainable Recommendation](https://arxiv.org/pdf/2101.01433)". The 14th ACM International WSDM Conference (WSDM 2021), March, 2021. (* equally contribution with Hongxu Chen)</li>
-    <li>Sixiao Zhang, Hongxu Chen, Xiangguo Sun, <b>Yicong Li</b>, and Guandong Xu. 2022. Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation. In Proceedings of the ACM Web Conference 2022 (WWW '22), April 25–29, 2022, Virtual Event, Lyon, France. ACM, New York, NY, USA 9 Pages. https://doi.org/10.1145/3485447.3512179</li>
-    <li><b>Yicong Li</b>, Dawei Feng, Menglong Lu, Dongsheng Li. "[A Distributed Topic Model for Large-Scale Streaming Text](https://www.researchgate.net/publication/335314189_A_Distributed_Topic_Model_for_Large-Scale_Streaming_Text)". The 12th International Conference on Knowledge Science, Engineering and Management (KSEM 2019), Auguest, 2019.</li>
-    <li>Liang Gao, Haibo Mi, Boqing Zhu, Dawei Feng, <b>Yicong Li</b>, Yuxing Peng. "[An adversarial feature distillation method for audio classification](https://www.researchgate.net/publication/334752458_An_Adversarial_Feature_Distillation_Method_for_Audio_Classification)". IEEE Access. 2019.</li>
+    <li><b>Yicong Li</b>, Hongxu Chen, Yile Li, Lin Li, Philip S Yu, Guandong Xu. <a href="https://arxiv.org/pdf/2111.12262.pdf">"Reinforcement Learning based Path Exploration for Sequential Explainable Recommendation"</a>. IEEE Transactions on Knowledge and Data Engineering (TKDE).</li>
+    <li>Kangzheng Liu, Feng Zhao, Hongxu Chen, <b>Yicong Li</b>, Guandong Xu, Hai Jin. <a href="https://dl.acm.org/doi/abs/10.1145/3511808.3557280">"DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning"</a>. Proceedings of the 31st ACM International Conference on Information & Knowledge Management (CIKM 2022). 2022: 1289-1298.</li>
+    <li><b>Yicong Li</b>, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu. <a href="https://arxiv.org/pdf/2108.08134">"Hyperbolic Hypergraphs for Sequential Recommendation"</a>. The 30th ACM International Conference on Information and Knowledge Management (CIKM 2021), Nov, 2021</li>
+    <li>Hongxu Chen, <b>Yicong Li*</b>, Xiangguo Sun, Guandong Xu and Hongzhi Yin. <a href="https://arxiv.org/pdf/2101.01433">"Temporal Meta-path Guided Explainable Recommendation"</a>. The 14th ACM International WSDM Conference (WSDM 2021), March, 2021. (* equally contribution with Hongxu Chen)</li>
+    <li>Sixiao Zhang, Hongxu Chen, Xiangguo Sun, <b>Yicong Li</b>, and Guandong Xu. <a href="https://doi.org/10.1145/3485447.3512179">"Unsupervised Graph Poisoning Attack via Contrastive Loss Back-propagation"</a>. In Proceedings of the ACM Web Conference 2022 (WWW '22), April 25–29, 2022, Virtual Event, Lyon, France. ACM, New York, NY, USA 9 Pages. </li>
+    <li><b>Yicong Li</b>, Dawei Feng, Menglong Lu, Dongsheng Li. <a href="https://www.researchgate.net/publication/335314189_A_Distributed_Topic_Model_for_Large-Scale_Streaming_Text">"A Distributed Topic Model for Large-Scale Streaming Text"</a>. The 12th International Conference on Knowledge Science, Engineering and Management (KSEM 2019), Auguest, 2019.</li>
+    <li>Liang Gao, Haibo Mi, Boqing Zhu, Dawei Feng, <b>Yicong Li</b>, Yuxing Peng. <a href="https://www.researchgate.net/publication/334752458_An_Adversarial_Feature_Distillation_Method_for_Audio_Classification">"An adversarial feature distillation method for audio classification"</a>. IEEE Access. 2019.</li>
 </ol>
-
-
-
-
-
 
 
 
